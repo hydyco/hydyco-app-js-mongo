@@ -1,6 +1,6 @@
 {
   "name": "hydyco-app-js-mongo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Javascript hydyco app template",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hydyco/core": "^0.0.3",
-    "@hydyco/mongoose-plugin": "^0.0.3"
+    "@hydyco/core": "^0.0.5",
+    "@hydyco/mongoose-plugin": "^0.0.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
