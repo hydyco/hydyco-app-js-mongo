@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hydyco/core": "^0.0.8",
-    "@hydyco/mongoose-plugin": "^0.0.8"
+    "@hydyco/core": "^0.0.9",
+    "@hydyco/mongoose-plugin": "^0.0.9"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
